@@ -5,65 +5,67 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px">
 </p>
 
+<p align="center">
+  <strong>Focused on building reliable software through structured testing and automation.</strong>
+</p>
+
 ---
 
 # 🇧🇷 Versão em Português
 
-## 🎯 Posicionamento Profissional
+## 🎯 Perfil Profissional
 
-Profissional de Tecnologia especializada em **Qualidade de Software e Automação de Testes**, com foco em garantir estabilidade, confiabilidade e eficiência em aplicações web.
+Profissional com foco em **Software Testing e Quality Assurance**, atuando com **Testes Manuais e Automação de Testes**.
 
-Atuo criando e estruturando **testes automatizados, validações de API e cenários funcionais**, aplicando boas práticas de QA e contribuindo para ciclos de desenvolvimento mais seguros e previsíveis.
+Experiência prática em:
 
-💡 Acredito que qualidade não é etapa final — é parte do processo.
+- Criação de **Test Cases**
+- Elaboração de **Test Plans**
+- **Regression Testing**
+- **Smoke Testing**
+- **API Testing**
+- **Functional Testing**
+- **Bug Tracking e Defect Lifecycle**
 
----
-
-## 🧪 Especialidades em QA
-
-- ✔ Automação de testes com Robot Framework  
-- ✔ Testes de API  
-- ✔ Criação de cenários funcionais  
-- ✔ Análise e validação de requisitos  
-- ✔ Identificação e reporte estruturado de bugs  
-- ✔ Boas práticas de qualidade e melhoria contínua  
+Atuação em ambientes **Agile / Scrum**, participando do ciclo completo do **SDLC (Software Development Life Cycle)** e colaborando com times de desenvolvimento para reduzir defeitos e aumentar a confiabilidade das aplicações.
 
 ---
 
-## 🚀 Stack Técnica
+## 🛠️ Ferramentas & Tecnologias
 
-### 🔎 Automação & QA
+### 🔹 Automação & Testes
 
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-Test_Automation-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge&logo=python)
-![API Testing](https://img.shields.io/badge/API-Testing-orange?style=for-the-badge)
-![QA](https://img.shields.io/badge/Software-Quality-red?style=for-the-badge)
-
-### 💻 Web & Suporte Técnico
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0A0A0A?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-0A0A0A?style=for-the-badge&logo=selenium)
+![Cypress](https://img.shields.io/badge/Cypress-0A0A0A?style=for-the-badge&logo=cypress)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🔹 Gestão & Processo
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=walclenia&show_icons=true&theme=default)
-
-### 📈 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walclenia&layout=compact)
+![Jira](https://img.shields.io/badge/Jira-0A0A0A?style=for-the-badge&logo=jira)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
 
-## 📌 Diferenciais
+# 📊 Estatísticas GitHub
 
-- Mentalidade orientada a prevenção de falhas  
-- Organização e documentação clara de testes  
-- Comunicação eficiente com times de desenvolvimento  
-- Foco em automação como estratégia de escalabilidade  
+## 🔥 Contribuições
+![GitHub Streak](https://streak-stats.demolab.com?user=walclenia&theme=dark&hide_border=true)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walclenia&theme=github-dark&hide_border=true)
+![Snake animation](https://github.com/walclenia/walclenia/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+## 📊 Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walclenia&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walclenia&theme=github_dark)
 
 ---
 
@@ -76,36 +78,51 @@ Atuo criando e estruturando **testes automatizados, validações de API e cenár
 
 # 🇺🇸 English Version
 
-## 🎯 Professional Positioning
+## 🎯 Professional Profile
 
-Technology professional specialized in **Software Quality Assurance and Test Automation**, focused on delivering reliable, stable and high-performance web applications.
+Professional focused on **Software Testing and Quality Assurance**, working with **Manual Testing and Test Automation**.
 
-I design and implement automated tests, API validations and functional scenarios, applying QA best practices to support safe and scalable development cycles.
+Hands-on experience in:
 
-💡 Quality is not the last step — it is part of the process.
+- Creating **Test Cases**
+- Designing **Test Plans**
+- **Regression Testing**
+- **Smoke Testing**
+- **API Testing**
+- **Functional Testing**
+- **Bug Tracking and Defect Lifecycle**
 
----
-
-## 🧪 QA Expertise
-
-- ✔ Test Automation with Robot Framework  
-- ✔ API Testing  
-- ✔ Functional Test Scenario Design  
-- ✔ Requirement Analysis & Validation  
-- ✔ Structured Bug Reporting  
-- ✔ Continuous Improvement in Quality Processes  
+Experience working in **Agile / Scrum environments**, participating in the full **SDLC (Software Development Life Cycle)** and collaborating with development teams to reduce defects and increase application reliability.
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tools & Technologies
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=walclenia&show_icons=true&theme=default)
+### 🔹 Automation & Testing
 
-### 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walclenia&layout=compact)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0A0A0A?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-0A0A0A?style=for-the-badge&logo=selenium)
+![Cypress](https://img.shields.io/badge/Cypress-0A0A0A?style=for-the-badge&logo=cypress)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 
 ---
 
-⭐ _"Quality is built, not inspected."_
+### 🔹 Process & Collaboration
 
+![Jira](https://img.shields.io/badge/Jira-0A0A0A?style=for-the-badge&logo=jira)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: https://linkedin.com/in/walclenia-franca/?locale=en-US
+
+📧 Email: walclenia@gmail.com  
+
+---
+
+⭐ Quality is not a phase — it is part of the development process.
