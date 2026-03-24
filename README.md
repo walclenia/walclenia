@@ -21,11 +21,9 @@ Experiência prática em:
 
 - Criação de **Test Cases**
 - Elaboração de **Test Plans**
-- **Regression Testing**
-- **Smoke Testing**
-- **API Testing**
-- **Functional Testing**
-- **Bug Tracking e Defect Lifecycle**
+- **Testes de Regressão**
+- **Teste de API**
+- **Testes Funcionais**
 
 Atuação em ambientes **Agile / Scrum**, participando do ciclo completo do **SDLC (Software Development Life Cycle)** e colaborando com times de desenvolvimento para reduzir defeitos e aumentar a confiabilidade das aplicações.
 
@@ -59,7 +57,6 @@ Atuação em ambientes **Agile / Scrum**, participando do ciclo completo do **SD
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walclenia&theme=github-dark&hide_border=true)
-![Snake animation](https://github.com/walclenia/walclenia/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 📊 Profile Summary
@@ -87,10 +84,8 @@ Hands-on experience in:
 - Creating **Test Cases**
 - Designing **Test Plans**
 - **Regression Testing**
-- **Smoke Testing**
 - **API Testing**
 - **Functional Testing**
-- **Bug Tracking and Defect Lifecycle**
 
 Experience working in **Agile / Scrum environments**, participating in the full **SDLC (Software Development Life Cycle)** and collaborating with development teams to reduce defects and increase application reliability.
 
